@@ -1,0 +1,9 @@
+# Compiled executable
+log_analyzer
+
+# Generated reports
+reports/*.txt
+
+# Temporary files
+*.tmp
+*.log.bak

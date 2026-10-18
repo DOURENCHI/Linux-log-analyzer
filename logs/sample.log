@@ -1,0 +1,5 @@
+2026-10-18 09:00:01 INFO Application started
+2026-10-18 09:00:05 WARNING High memory usage
+2026-10-18 09:00:08 ERROR Connection failed
+2026-10-18 09:00:10 ERROR Retry failed
+2026-10-18 09:00:15 INFO Application stopped
